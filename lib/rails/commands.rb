@@ -9,6 +9,7 @@ aliases = {
   s: 'server',
   db: 'dbconsole',
   r: 'runner',
+  t: 'test',
   ta: 'with_engines_test',
   test_all: 'with_engines_test'
 }
